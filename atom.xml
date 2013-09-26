@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[I love the schiskit]]></title>
+  <link href="http://yoursite.com/atom.xml" rel="self"/>
+  <link href="http://yoursite.com/"/>
+  <updated>2013-09-25T21:25:08-04:00</updated>
+  <id>http://yoursite.com/</id>
+  <author>
+    <name><![CDATA[Jed]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[sandwiches]]></title>
+    <link href="http://yoursite.com/blog/2013/09/20/sandwiches/"/>
+    <updated>2013-09-20T10:25:00-04:00</updated>
+    <id>http://yoursite.com/blog/2013/09/20/sandwiches</id>
+    <content type="html"><![CDATA[<p><img src="http://placekitten.com/700/280"></p>
+
+<p>Yeah, sometimes I eat sandwiches, and sometimes the sandwich has more than 3 types of deli meat. It&rsquo;s hard being a gansta.</p>
+]]></content>
+  </entry>
+  
+</feed>
